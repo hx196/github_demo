@@ -4,4 +4,4 @@ github
 需要执行pull命令
 冲突
 产生冲突
-ssh免密登录
+ssh免密登录提交
