@@ -3,3 +3,4 @@ github
 11
 需要执行pull命令
 产生冲突
+ssh免密登录
